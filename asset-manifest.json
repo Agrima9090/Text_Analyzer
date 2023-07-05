@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textMania/static/css/main.e8478365.css",
+    "main.js": "/textMania/static/js/main.52fe345a.js",
+    "static/js/787.17f3bd67.chunk.js": "/textMania/static/js/787.17f3bd67.chunk.js",
+    "index.html": "/textMania/index.html",
+    "main.e8478365.css.map": "/textMania/static/css/main.e8478365.css.map",
+    "main.52fe345a.js.map": "/textMania/static/js/main.52fe345a.js.map",
+    "787.17f3bd67.chunk.js.map": "/textMania/static/js/787.17f3bd67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8478365.css",
+    "static/js/main.52fe345a.js"
+  ]
+}
